@@ -1,0 +1,16 @@
+#text-color{
+    color: yellow;
+}
+#bg-black{
+    background-color: black;
+}
+#fixed-img{
+    width: 100%;
+    height: 80%;
+    background-position: center;
+    background-size: cover;
+  
+}
+.btn-blue{
+    box-shadow: 2px 2px 2px 2px blue;
+}
