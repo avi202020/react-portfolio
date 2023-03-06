@@ -4,7 +4,7 @@ function Header() {
     return <>
        <nav className='navbar  navbar-expand-sm' id="navbar-bg">
         <div className="container">
-            <Link to="/" className='navbar-brand  fw-bold'>LOGO</Link>
+            <NavLink to="/" className='navbar-brand  fw-bold'>LOGO</NavLink>
 
             <button className='navbar-toggler text-light' type="button"  data-bs-target="#nav-collapse" data-bs-toggle="collapse">
                 <span className='navbar-toggler-icon  bg-light'></span>
