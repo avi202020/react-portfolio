@@ -1,0 +1,13 @@
+.navbar{
+    background-color: black;
+}
+.container .navbar-brand{
+    color: yellow;
+}
+#menu-item{
+    color: white;
+}
+#menu-item:hover{
+    color: yellow;
+    
+}
