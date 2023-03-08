@@ -33,11 +33,6 @@ import Col from "../../components/Col";
 // import selfie from "../assets/me.png"
 // import farmbus from "../assets/farmbus.jpg"
 
-const styles = {
-    contactContainer: {
-        color: '#724060',
-      },
-  };
 
 function Contact() {
   return (
@@ -58,7 +53,7 @@ function Contact() {
      </p>
      <div className="d-flex justify-content-center" >   
      <p className="text-center mx-10">
-       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpIWcijsZy-gAsygvmw0jhgD3XaDdya40HQyjsQ8DwGsCP5Q/viewform?embedded=true" width="600" height="812" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+       <iframe title="ContactFrame" src="https://docs.google.com/forms/d/e/1FAIpQLScpIWcijsZy-gAsygvmw0jhgD3XaDdya40HQyjsQ8DwGsCP5Q/viewform?embedded=true" width="600" height="812" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
        </p>
        </div> 
       </div>
