@@ -179,7 +179,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
                 to="/about"
                 activeClassName="active"
               >
-                About
+                About Me
               </NavLink>
             </li>            
                      <li>
