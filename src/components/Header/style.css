@@ -1,0 +1,23 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+a.navbar-brand {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.header {
+  background: #838383;
+}
+
+a.nav-link {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav.navbar {
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
+}

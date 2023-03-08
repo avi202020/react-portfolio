@@ -1,48 +1,32 @@
 import React from 'react'
-import "./Home.css"
-import home from "../Images/bg_1.png"
-import About from './About'
-import Service from './Service'
-import Skills from './Skills'
-import Project from './Project'
-import Team from './Team'
-import Contact from './Contact'
-import img1 from "../Images/about.jpg"
+import Projects from '../pages/Projects'
+import logo from '../assets/avi_photo.JPG'
+import Skills from '../pages/Skills'
 
-const Home = () => {
+function Homepage() {
   return (
-    <div>
- 
-     <section id="bg-black" className='pb-5 py-5'>
-     <div className="container">
-        <div className="row">
-          <div className="col-lg-6 pt-5">
-            <span className='display-5 text-light'>Hello</span>
-            <h1 className="display-2 fw-bold text-light">I'm Mohd 
-             <h1 className='display-2 fw-bold'id="text-color"> zafar</h1></h1>
-             <h4 className='pb-3'>A Freelancer web Designer</h4>
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem asperiores explicabo consequuntur possimus veniam enim, repellat ratione quod voluptas provident, nesciunt adipisci magni? Earum qui praesentium, illum nemo impedit recusandae.</p>
-             <a href={img1} download className='btn btn-outline-warning me-3 btn-yellow'>Download Resume</a>
-             <a href="/project" className='btn btn-outline-primary btn-blue'>My Work</a>
-
-          </div>
-          <div className="col-lg-6 ">
-            <figure>
-              <img src={home} id="fixed-img"/>
-            </figure>
-          </div>
+    <div className='homepage-container'>
+      <div className='hero-section text-center'>
+      <div className="row mb-5 mx-auto d-block" style={{height: '500px',width: '500px'}}>
+        {/* <h1 >Avadhesh Mishra</h1> */}
+        <img  src={logo} alt="My avatar" width="500" height="400" className="my-5"></img>
         </div>
-       </div>
-     </section>
-     <About/>
-     <Service/>
-     <Skills/>
-      <Project/>
-      <Team/>
-      <Contact/>
-      
-    </div>
+      </div>
+      <div className='brand-statement text-center'>
+        <h2>Welcome to my portfolio!!</h2>
+        {/* <img  src={logo} alt="My avatar" width="300" height="200" className="float-start"></img> */}
+
+        <p>16+ Years of experience in Investment banking and Cybersecurity, rolling out productions in various
+markets across the world, migration, version upgrade. Have extensive experience with build
+architecture and automation, continuous delivery, and troubleshooting complex dependency
+graphs, and also a software craftsman, applying state-of-the-art tools and methods to enable
+efficiency, performance, and agility. Experience in migrating on-premises applications to Cloud
+platform using rehost, re-platform and refactor strategy</p>
+      </div>
+      <Projects />
+      <Skills />
+      </div>
   )
 }
 
-export default Home
+export default Homepage
