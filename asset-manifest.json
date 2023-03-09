@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.3a1e5200.css",
-    "main.js": "/react-portfolio/static/js/main.2b510a4a.js",
+    "main.css": "/react-portfolio/static/css/main.e83c475e.css",
+    "main.js": "/react-portfolio/static/js/main.39a38594.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/AvadheshMishra_Profile.pdf": "/react-portfolio/static/media/AvadheshMishra_Profile.58f4521bcb1e96ed5f26.pdf",
+    "static/media/fontawesome-webfont.eot": "/react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/avi_photo.JPG": "/react-portfolio/static/media/avi_photo.6566865f05d77d9b15d7.JPG",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/react-portfolio/index.html",
-    "main.3a1e5200.css.map": "/react-portfolio/static/css/main.3a1e5200.css.map",
-    "main.2b510a4a.js.map": "/react-portfolio/static/js/main.2b510a4a.js.map"
+    "main.e83c475e.css.map": "/react-portfolio/static/css/main.e83c475e.css.map",
+    "main.39a38594.js.map": "/react-portfolio/static/js/main.39a38594.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a1e5200.css",
-    "static/js/main.2b510a4a.js"
+    "static/css/main.e83c475e.css",
+    "static/js/main.39a38594.js"
   ]
 }
