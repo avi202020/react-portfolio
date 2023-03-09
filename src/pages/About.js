@@ -20,10 +20,10 @@ function About() {
           <Col size="sm-12 md-6 lg-7 xl-8">
             <h3>About Me</h3>
                <p>
-               My technical  </p>
-            <h3>Hobbies and Other Interests</h3> 
+               My technical skills are full stack development and application automation</p>
+            <h3>Interests and Hobbies</h3> 
             <p>
-              In my free time
+              In free watch movies and comedy shows
             </p>
             {/* <img src={farmbus} height="45%" alt="my VW Bus" /> */}
           </Col>
