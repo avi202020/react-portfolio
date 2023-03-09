@@ -159,7 +159,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
                 className="nav-link"
                 to="/"
                 activeClassName="active"
-                exact={true}
+                exact={false}
               >
                 Home
               </NavLink>

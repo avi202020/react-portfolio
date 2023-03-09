@@ -6,7 +6,22 @@
     "image": "/images/travel_app.png",
     "url":  "https://avi202020.github.io/Travel-App/",
     "github": "https://github.com/avi202020/travel-app"
+  },
+  {
+    "id": 1,
+    "name": "Personel Project - Quiz App",
+    "image": "/images/quiz_app.png",
+    "url":  "https://avi202020.github.io/multiplechoice-code-quiz/",
+    "github": "https://github.com/avi202020/multiplechoice-code-quiz/"
+  },
+  {
+    "id": 1,
+    "name": "Group Project - Travel App",
+    "image": "/images/weather_app.png",
+    "url":  "https://avi202020.github.io/Weather-Dashboard/",
+    "github": "https://github.com/avi202020/Weather-Dashboard"
   }
+
 ]
 
 
