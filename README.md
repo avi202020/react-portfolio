@@ -90,6 +90,10 @@ Update your GitHub profile with pinned repositories featuring those same project
 
 1. EDX Full Stack Bootcamp TAs
 
+## Github Repo Link
+
+https://github.com/avi202020/react-portfolio/
+
 ## Website Link
 
 https://avi202020.github.io/react-portfolio/
