@@ -25,9 +25,9 @@ https://avi202020.github.io/react-portfolio/
 
 ## Website Screenshot
 
-![Screenshot](https://github.com/avi202020/react-portfolio/blob/main/screenshots/react_portfolio_app.png)
+![Screenshot](https://github.com/avi202020/react-portfolio/blob/main/public/images/react_portfolio_app.png)
 
-![Screenshot](https://github.com/avi202020/react-portfolio/blob/main/screenshots/react_portfolio_app2.png)
+![Screenshot](https://github.com/avi202020/react-portfolio/blob/main/public/images/react_portfolio_app2.png)
 
 
 ## Contributing
